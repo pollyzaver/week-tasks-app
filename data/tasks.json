@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": 1765435542242,
+    "text": "Сделать тип",
+    "day": "thursday",
+    "completed": true
+  },
+  {
+    "id": 1765435554655,
+    "text": "Приготовить обед",
+    "day": "thursday",
+    "completed": true
+  },
+  {
+    "id": 1765435573172,
+    "text": "Решить матанализ",
+    "day": "monday",
+    "completed": false
+  },
+  {
+    "id": 1765435616604,
+    "text": "Посмотреть фильм",
+    "day": "thursday",
+    "completed": false
+  },
+  {
+    "id": 1765435636274,
+    "text": "Поиграть на гитаре час",
+    "day": "sunday",
+    "completed": false
+  },
+  {
+    "id": 1765435687504,
+    "text": "Получить справку в мфц",
+    "day": "friday",
+    "completed": false
+  }
+]
