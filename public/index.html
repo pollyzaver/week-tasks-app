@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Таблица дел на неделю</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Таблица дел на неделю</h1>
+    
+    <div class="form">
+      <input type="text" id="taskInput" placeholder="Новая задача...">
+      <select id="daySelect">
+        <option value="monday">Понедельник</option>
+        <option value="tuesday">Вторник</option>
+        <option value="wednesday">Среда</option>
+        <option value="thursday">Четверг</option>
+        <option value="friday">Пятница</option>
+        <option value="saturday">Суббота</option>
+        <option value="sunday">Воскресенье</option>
+      </select>
+      <button onclick="addTask()">Добавить</button>
+    </div>
+
+    <div class="week">
+      
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
